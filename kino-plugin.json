@@ -21,7 +21,7 @@
         "accent": "#FA047B",
         "onAccent": "#000000",
         "surface": "#000000",
-        "surfaceHigh": "#191919"
+        "surfaceHigh": "#202020"
       },
       "player": {
         "buttonShape": "rounded"
