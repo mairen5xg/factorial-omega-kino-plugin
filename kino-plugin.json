@@ -1,0 +1,40 @@
+{
+  "id": "mi-tema",
+  "name": "My theme",
+  "version": "1.0.0",
+  "apiVersion": 18,
+  "entry": "plugin.js",
+  "description": "An app theme",
+  "author": "your-name",
+  "hosts": [],
+  "categories": [
+    "themes"
+  ],
+  "appThemes": [
+    {
+      "id": "mi-tema",
+      "name": {
+        "es": "Mi tema",
+        "en": "My theme"
+      },
+      "colors": {
+        "accent": "#FA047B",
+        "onAccent": "#000000",
+        "surface": "#000000",
+        "surfaceHigh": "#191919"
+      },
+      "player": {
+        "buttonShape": "rounded"
+      },
+      "background": {
+        "type": "gradient",
+        "colors": [
+          "#000000",
+          "#000000",
+          "#1B032E"
+        ],
+        "angle": 180
+      }
+    }
+  ]
+}
